@@ -1,0 +1,24 @@
+.logo{
+    background-color: rgb(8, 6, 6);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.logo:hover{
+    color: chartreuse;
+}
+.contenedornav{
+    padding: 10px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+.a-item{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.a-item:hover{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}

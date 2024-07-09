@@ -1,0 +1,9 @@
+.contenedor-meseros{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.foto{
+    padding: 10px;
+}
